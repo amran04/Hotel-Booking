@@ -103,11 +103,11 @@ margin-right: 500px;
 }
 .footer-links a
 {
-  color:#737373
+  color:hsl(0, 0%, 76%)
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
-  color:#3366cc;
+  color:#090909;
   text-decoration:none;
 }
 .footer-links.inline li
@@ -219,4 +219,12 @@ margin-right: 500px;
   .form1{
     text-align: center;
   }
-    
+
+ p{
+  text-align: center;
+  color: darkgoldenrod  ;
+  font-size: larger;
+ }
+    h2{
+      color: darkgoldenrod;
+    }
