@@ -99,7 +99,7 @@ margin-right: 500px;
 }
 .footer-links li
 {
-  display:block
+  display: inline-table;
 }
 .footer-links a
 {
