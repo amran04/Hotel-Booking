@@ -11,13 +11,13 @@
 .amran{
     text-align:center ;
     font-size: large;
-    color: darkgoldenrod;
+    color: rgb(120, 112, 3);
     
 }
 .client1{
   text-align: center;
-  border: 1px solid blue;
-  background-color: rgb(0, 251, 255);
+  border: 1px solid rgb(13, 13, 13);
+  background-color: hsl(180, 56%, 98%);
   margin-left: 500px;
   margin-right: 500px;
 
@@ -25,8 +25,8 @@
   
   .client2 {
     text-align: center;
-    border: 1px solid blue;
-    background-color: rgb(0, 251, 255);
+    border: 1px solid rgb(8, 8, 9);
+    background-color: rgb(252, 253, 253);
     margin-left: 500px;
     margin-right: 500px;
   }
@@ -34,8 +34,8 @@
   /* Links - change color on hover */
   .client3{
     text-align: center;
-    border: 1px solid blue;
-    background-color: rgb(0, 251, 255);
+    border: 1px solid rgb(6, 6, 6);
+    background-color: rgb(251, 254, 254);
     margin-left: 500px;
     margin-right: 500px;
   }
@@ -43,16 +43,16 @@
   .client4 {
 /* the default for span */
 text-align: center;
-border: 1px solid blue;
-background-color: rgb(0, 255, 255);
+border: 1px solid rgb(7, 7, 7);
+background-color: rgb(252, 253, 253);
 margin-left: 500px;
 margin-right: 500px;
   }
   
   .client5 {
     text-align: center;
-        border: 1px solid blue;
-        background-color: rgb(0, 251, 255);
+        border: 1px solid rgb(7, 7, 7);
+        background-color: rgb(246, 248, 248);
         margin-left: 500px;
         margin-right: 500px;
   }
