@@ -136,7 +136,7 @@ margin-right: 500px;
 {
   .site-footer [class^=col-]
   {
-    margin-bottom:30px
+    margin-bottom:30px;
   }
 }
 @media (max-width:767px)
