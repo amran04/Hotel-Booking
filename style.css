@@ -68,12 +68,12 @@ margin-right: 500px;
 }
 .site-footer hr
 {
-  border-top-color:#bbb;
+  border-top-color:rgb(253, 248, 248);
   opacity: 0.5;
 }
 .site-footer hr.small
 {
-  margin:20px 0
+  margin: 30px 0
 }
 .site-footer h6
 {
