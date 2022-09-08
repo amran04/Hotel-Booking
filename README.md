@@ -22,7 +22,7 @@ Email address
 hoteldeluxe@gmail.com
 istagram name
 HoteldeLuxe
-twitter handele
+twitter handle
 HoteldeLuxe
 facebook handle
 HoteldeLuxe
