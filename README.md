@@ -11,3 +11,8 @@ Excursions and guided tours
 Laundry and valet services
 Room services
 
+# location
+it is located 30  kilometes south of Mombasa and Kwale
+
+# 
+
