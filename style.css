@@ -1,6 +1,6 @@
 body{
-  background: url(./images/eddi-aguirre-ZAVHbpOn4Jk-unsplash.jpg);
-  background-size: cover;
+  background: url("./images/ciudad-maderas-MXbM1NrRqtI-unsplash.jpg");
+  background-size: contain;
 }
 
  .homepage {
@@ -213,7 +213,7 @@ margin-right: 500px;
 }
 .social-icons a.instagram:hover
 {
-  background-color:white
+  background-color:rgb(8, 8, 8)
 }
 
   .social-icons li.title
@@ -229,9 +229,9 @@ margin-right: 500px;
 
  p{
   text-align: center;
-  color: darkgoldenrod  ;
+  color: rgb(250, 249, 247)  ;
   font-size: larger;
  }
     h2{
-      color: darkgoldenrod;
+      color: rgb(229, 176, 5);
     }
