@@ -14,5 +14,17 @@ Room services
 # location
 it is located 30  kilometes south of Mombasa and Kwale
 
-# 
+# contact us
+phone number
++254 725100100
++254 730254206
+Email address
+hoteldeluxe@gmail.com
+istagram name
+HoteldeLuxe
+twitter handele
+HoteldeLuxe
+facebook handle
+HoteldeLuxe
+
 
